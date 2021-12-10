@@ -1,0 +1,40 @@
+{
+  "name": "SQD-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "SQD-api.js",
+  "scripts": {
+    "start": "node SQD-api.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "agenda": "^4.1.0",
+    "axios": "^0.21.1",
+    "axios-https-proxy-fix": "^0.17.1",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.1.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.10.0",
+    "https-proxy-agent": "^5.0.0",
+    "human-date": "^1.4.0",
+    "jsonwebtoken": "^8.5.1",
+    "ldapjs": "^2.2.4",
+    "moment": "^2.29.1",
+    "mongoose": "^5.12.2",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.3",
+    "node-csv-parse": "^1.2.0",
+    "node-ssh": "^11.1.1",
+    "nodemailer": "^6.6.1",
+    "proxy-agent": "^5.0.0",
+    "socket.io": "^4.0.0",
+    "software-license-key": "^1.0.1",
+    "telegraf": "^4.4.1",
+    "tinycron": "^0.5.0",
+    "validator": "^13.6.0"
+  }
+}
