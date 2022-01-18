@@ -119,5 +119,6 @@ Listo ya puede registrar su proxy para ser gestionado y monitoreado por SQD
 
 ### Recuerde que usted puede aportar también en este sistema para que se incluyan nuevas funcionalidades que sean de su interés
 
-#Nota IMPORTANTE
-##Si al registrase en nuestra web el correo de verificación no le llega es muy probable que sea porque nuestra ip está dentro de un rango de ip de Cuba puestas en lista negra por http://www.sorbs.net/lookup.shtml y por http://www.spamrats.com. Lamentamos no poder resolver esta situación nosotros mismos ya que dependemos de nuestro proveedor para poderlo resolver. Usted puede agregar temporalmente nuestro dominio a su lista blanca en su servidor de correo para poder completar el registro. 
+# Nota IMPORTANTE  
+
+## Si al registrase en nuestra web el correo de verificación no le llega es muy probable que sea porque nuestra ip está dentro de un rango de ip de Cuba puestas en lista negra por http://www.sorbs.net/lookup.shtml y por http://www.spamrats.com. Lamentamos no poder resolver esta situación nosotros mismos ya que dependemos de nuestro proveedor para poderlo resolver. Usted puede agregar temporalmente nuestro dominio a su lista blanca en su servidor de correo para poder completar el registro. 
